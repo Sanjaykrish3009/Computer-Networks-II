@@ -1,7 +1,5 @@
 Computer Networks-II:
 
-Assignment 1:
-
 
 Compiling and Running of Server File: 
 
